@@ -1,4 +1,4 @@
-[![Dominick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominickdejesus&theme=tokyonight&show_icons=true)](https://github.com/dominickdejesus/github-readme-stats)
+[![Dominick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominickdejesus&theme=tokyonight&show_icons=true)
 [![Dominick's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dominickdejesus&layout=compact&langs_count=8&theme=tokyonight)
 
 ### 🛠 &nbsp;Tech Stack
